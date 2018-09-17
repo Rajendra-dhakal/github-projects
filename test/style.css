@@ -1,0 +1,35 @@
+*{
+	font-family: "Roboto";
+}
+body, html
+{
+	height: 100%;
+	margin:0px;
+}
+.bg
+{
+	background-image: url("header.jpg");
+	height:100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.text
+{
+	top: 180px;
+	color: white;
+	font-size: 30px;
+}
+.but
+{
+	top: 370px;
+}
+
+.btn.btn-danger
+{
+	border-radius: 50px;
+}
+.subs
+{
+	top: 370px;
+}
